@@ -1,0 +1,32 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+shift_screen                                                      0x016D      20
+str_main                                                          0x0181      59
+str_size                                                          0x01BC       2
+lcd_size                                                          0x01BE       2
+blink_counter                                                     0x01C0       2
+timer                                                             0x01C2       2
+hu                                                                0x01C4       2
+lcd_time                                                          0x01C6       2
+row_index                                                         0x01C8       2
+colum_index                                                       0x01CA       2
+_base_y                                                           0x01CC       4
+_lcd_x                                                            0x01D0       1
+_lcd_y                                                            0x01D1       1
+_lcd_maxx                                                         0x01D2       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+tem_save                                                          R5           1
+i                                                                 R6,R7        2
+c                                                                 R8,R9        2
+j                                                                 R10,R11      2
+run                                                               R12,R13      2
+a                                                                 R2.0      1bit
+status                                                            R4           1

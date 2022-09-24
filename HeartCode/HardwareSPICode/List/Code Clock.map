@@ -1,0 +1,27 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+shift_screen                                                      0x0166      20
+str_main                                                          0x017A      95
+str_size                                                          0x01D9       2
+lcd_size                                                          0x01DB       2
+colum_index                                                       0x01DD       2
+_base_y                                                           0x01DF       4
+_lcd_x                                                            0x01E3       1
+_lcd_y                                                            0x01E4       1
+_lcd_maxx                                                         0x01E5       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+tem_save                                                          R5           1
+i                                                                 R6,R7        2
+c                                                                 R8,R9        2
+j                                                                 R10,R11      2
+run                                                               R12,R13      2
+a                                                                 R2.0      1bit
+status                                                            R4           1

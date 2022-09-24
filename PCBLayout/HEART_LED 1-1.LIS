@@ -1,0 +1,16 @@
+AutoECO Report
+FILE-A: E:\MEDIAFIRE MINHNAMDTKN09SPKT\MEDIAFIRE\ONEDRIVE\MN PROJECT\HEART LED\HEART_LED\HEART_LED 1.MAX
+FILE-B: E:\MEDIAFIRE MINHNAMDTKN09SPKT\MEDIAFIRE\ONEDRIVE\MN PROJECT\HEART LED\HEART_LED.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package HEADER6
+Adding component J7
+Found footprint HEADER 10 from PRT file for part HEADER6, comp J7
+Adding net MISO
+Adding J7.3 to net CLK
+Adding J7.1 to net DIN
+Adding J7.6 to net GND
+Adding J7.4 to net RST
+Adding J7.5 to net VCC
+Deleting net DEFAULT
+*EOF*
+No errors found
